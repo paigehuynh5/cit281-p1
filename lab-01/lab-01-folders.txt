@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 paigehuynh  staff   0 Apr  4 11:17 lab-01-folders.txt
+drwxr-xr-x  3 paigehuynh  staff  96 Apr  4 10:53 p1
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p2
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p3
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p4
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p5
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p6
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p7
+drwxr-xr-x  2 paigehuynh  staff  64 Apr  4 10:51 p8
